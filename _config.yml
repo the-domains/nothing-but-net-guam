@@ -1,0 +1,28 @@
+name: Nothing But Net Guam
+favicon: null
+layout_spectrum: 0.8071410804986954
+typography_spectrum: 0.5634770065080374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7044707171153277
+  lightness: 0.7089837675448507
+  saturation: 0.9069727514870465
+  rhythmicContrast: 0.812990142730996
+purpose: []
